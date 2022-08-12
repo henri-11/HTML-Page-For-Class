@@ -35,3 +35,16 @@ a{
   color: white;
   text-decoration: none;
 }
+table, th, td{
+      text-decoration-color: white;
+      color:  white;
+      border: 1px solid red;
+      background-color: none;
+      font-size: 50px;
+      border-width: medium;
+      border-color: red;
+    }
+    a{
+      color: white;
+      text-decoration: none;
+    }
